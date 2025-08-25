@@ -29,7 +29,8 @@ _Tip: You can customize this section further with your project’s purpose—whe
 - Smooth and captivating animations  
 - Clean and appealing UI  
 - Cross-platform support (iOS, Android, Web)  
-- Firebase integration (if using Firebase services)  
+- Firebase integration (if using Firebase services)
+- 
 - Easy-to-customize codebase for learning or enhancement
 
 ## Demo
